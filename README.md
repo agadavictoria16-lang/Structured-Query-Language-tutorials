@@ -6,5 +6,6 @@ This repository contains SQL files for learning and practicing fundamental conce
 - Basic queries: SELECT, WHERE, ORDER BY, UPDATE, SET, COUNT, MIN, MAX, SUM, etc.
 - Aggregations: GROUP BY, HAVING
 - Joins: INNER JOIN, LEFT JOIN, OUTER JOIN, etc.
+- Time Series
 
 Each folder contains hands-on SQL examples and exercises to help learners practice.
